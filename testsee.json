@@ -52,13 +52,14 @@
     "Ammo Crate", "Ammo Crate Recipe Tablet", "Bedside Table", "Basketball", "Beanbag",
     "Bearskin Rug", "Bear Trap", "Chair Set", "Chilly Bin", "Chopping Board", "Cloth Frame", "Clownfish Chair",
     "Compass", "Crock Pot", "Farm Recipe Tablet", "Flower Vase", "Good Bed", "Good Rod", "Good Taming Flute",
-    "Green Rug", "Hammer", "Item Chest", "Item Chest2", "Item Chest3", "Item Chest4", "Item Chest5", "Item Chest6",
-    "Lost Child2", "Lost Child4", "Metal Chair", "Mossy Chest", "Old Rod", "Old Taming Flute", "Paint Brush",
-    "Plush Toy", "Purple Rug", "Red Key", "Secret Recipe Tablet", "Snow Chest1", "Snow Chest2", "StoneChest1",
-    "StoneChest2", "Stronghold Diamond Chest", "Strong Taming Flute", "Volcanic Chest1", "Volcanic Chest2",
-    "Well", "Wooden Bookshelf", "Wooden Chair", "Wooden Fence Segment", "Wooden Stool", "Wooden Table",
-    "Wooden Trellis Fence", "Wood Rain Storage", "Writable Sign Small", "Blue Key", "Yellow Key", "Halloween Maze Chest",
-    "Halloween Chest1"
+    "Green Rug", "Hammer", "Lost Child2", "Lost Child4", "Metal Chair", "Mossy Chest", "Old Rod", "Old Taming Flute", "Paint Brush",
+    "Plush Toy", "Purple Rug", "Red Key", "Secret Recipe Tablet", "Well", "Wooden Bookshelf", "Wooden Chair", "Wooden Fence Segment",
+    "Wooden Stool", "Wooden Table", "Wooden Trellis Fence", "Wood Rain Storage", "Writable Sign Small", "Blue Key", "Yellow Key",
+    "Halloween Maze Chest", "Halloween Chest1"
+  ],
+  "Chests": [
+    "Item Chest", "Item Chest2", "Item Chest3", "Item Chest4", "Item Chest5", "Item Chest6",
+    "Mossy Chest", "Snow Chest1", "Snow Chest2", "StoneChest1", "StoneChest2", "Volcanic Chest1", "Volcanic Chest2"
   ],
   "Enemies": [
     "Alien", "Alien Chest", "Alien Elite", "Cultist", "Cultist King", "Cultist King Antler",
